@@ -14,18 +14,8 @@ npm run serve
 ```
 npm run build
 ```
+## 启动后台服务
+cd service
 
-### Run your tests
+node index.js
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# boot
-# shooping-vue
